@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Carbon.Sample.Masstransit</name>
+    </assembly>
+    <members>
+        <member name="M:Carbon.Sample.Masstransit.Controllers.NotificationSenderController.SendEmail(Carbon.Sample.Masstransit.Dtos.Notification.SendNotificationDto)">
+            <summary>
+            SendEmail
+            </summary>
+            <param name="notificationDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Carbon.Sample.Masstransit.Controllers.NotificationSenderController.SendSms(Carbon.Sample.Masstransit.Dtos.Notification.SendNotificationDto)">
+            <summary>
+            SendSms
+            </summary>
+            <param name="notificationDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
